@@ -1,0 +1,93 @@
+{
+  "urls": {
+    "data": [
+      {
+        "shortCode": "12C18",
+        "shortUrl": "https://s.test/12C18",
+        "redirectUrl": "https://store.steampowered.com",
+        "deviceRedirectUrl": {
+          "android": null,
+          "ios": null,
+          "desktop": null
+        },
+        "dateCreated": "2016-08-21T20:34:16+02:00",
+        "visitsSummary": {
+          "total": 328,
+          "nonBots": 328,
+          "bots": 0
+        },
+        "tags": [
+          "games",
+          "tech"
+        ],
+        "meta": {
+          "validSince": "2017-01-21T00:00:00+02:00",
+          "validUntil": null,
+          "maxVisits": 100
+        },
+        "domain": null,
+        "title": "Welcome to Steam",
+        "crawlable": false
+      },
+      {
+        "shortCode": "12Kb3",
+        "shortUrl": "https://s.test/12Kb3",
+        "redirectUrl": "https://shlink.io",
+        "deviceRedirectUrl": {
+          "android": null,
+          "ios": "https://shlink.io/ios",
+          "desktop": null
+        },
+        "dateCreated": "2016-05-01T20:34:16+02:00",
+        "visitsSummary": {
+          "total": 1029,
+          "nonBots": 900,
+          "bots": 129
+        },
+        "tags": [
+          "shlink"
+        ],
+        "meta": {
+          "validSince": null,
+          "validUntil": null,
+          "maxVisits": null
+        },
+        "domain": null,
+        "title": null,
+        "crawlable": false
+      },
+      {
+        "shortCode": "123bA",
+        "shortUrl": "https://example.com/123bA",
+        "redirectUrl": "https://www.google.com",
+        "deviceRedirectUrl": {
+          "android": null,
+          "ios": null,
+          "desktop": null
+        },
+        "dateCreated": "2015-10-01T20:34:16+02:00",
+        "visitsSummary": {
+          "total": 25,
+          "nonBots": 0,
+          "bots": 25
+        },
+        "tags": [],
+        "meta": {
+          "validSince": "2017-01-21T00:00:00+02:00",
+          "validUntil": null,
+          "maxVisits": null
+        },
+        "domain": "example.com",
+        "title": null,
+        "crawlable": false
+      }
+    ],
+    "pages": {
+      "currentPage": 5,
+      "pagesCount": 12,
+      "itemsPerPage": 10,
+      "itemsInCurrentPage": 10,
+      "totalItems": 115
+    }
+  }
+}
